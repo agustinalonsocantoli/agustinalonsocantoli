@@ -21,9 +21,9 @@
 
 
 ### I am a Full Stack Developer
-- 🔭 I’m currently working on my Portfolio Website
-- 💡 I like to explore new technologies
-- 👯 I’m looking to collaborate with other Developers :wink:
+- 🔭 I’m currently working on Imagina Formacion
+- 💡 I like to explore new technologies 
+- 🛠 I'm always looking for new challenges.
 - 👨‍💻 All of my projects are available in GitHub
 
 <br>
