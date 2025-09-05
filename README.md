@@ -21,7 +21,7 @@
 
 
 ### I am a Full Stack Developer
-- 🔭 I’m currently working on Imagina Formacion
+- 🔭 I’m currently working on Allfunds
 - 💡 I like to explore new technologies 
 - 🛠 I'm always looking for new challenges.
 - 👨‍💻 All of my projects are available in GitHub
